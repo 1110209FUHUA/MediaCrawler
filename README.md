@@ -1,4 +1,4 @@
-# 🔥 自媒体平台爬虫🕷️MediaCrawler🔥 华门
+# 🔥 自媒体平台爬虫🕷️MediaCrawler🔥 
 <a href="https://trendshift.io/repositories/8291" target="_blank"><img src="https://trendshift.io/api/badge/repositories/8291" alt="NanmiCoder%2FMediaCrawler | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 
 [![GitHub Stars](https://img.shields.io/github/stars/NanmiCoder/MediaCrawler?style=social)](https://github.com/NanmiCoder/MediaCrawler/stargazers)
